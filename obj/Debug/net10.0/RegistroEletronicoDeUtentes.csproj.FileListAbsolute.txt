@@ -1,0 +1,14 @@
+J:\JOZZ NÉ\UNIKIVI\4º Ano\1º SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO VII\TRABALHOS\TRABALHO 01\RegistroEletronicoDeUtentes\bin\Debug\net10.0\RegistroEletronicoDeUtentes.exe
+J:\JOZZ NÉ\UNIKIVI\4º Ano\1º SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO VII\TRABALHOS\TRABALHO 01\RegistroEletronicoDeUtentes\bin\Debug\net10.0\RegistroEletronicoDeUtentes.deps.json
+J:\JOZZ NÉ\UNIKIVI\4º Ano\1º SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO VII\TRABALHOS\TRABALHO 01\RegistroEletronicoDeUtentes\bin\Debug\net10.0\RegistroEletronicoDeUtentes.runtimeconfig.json
+J:\JOZZ NÉ\UNIKIVI\4º Ano\1º SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO VII\TRABALHOS\TRABALHO 01\RegistroEletronicoDeUtentes\bin\Debug\net10.0\RegistroEletronicoDeUtentes.dll
+J:\JOZZ NÉ\UNIKIVI\4º Ano\1º SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO VII\TRABALHOS\TRABALHO 01\RegistroEletronicoDeUtentes\bin\Debug\net10.0\RegistroEletronicoDeUtentes.pdb
+J:\JOZZ NÉ\UNIKIVI\4º Ano\1º SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO VII\TRABALHOS\TRABALHO 01\RegistroEletronicoDeUtentes\obj\Debug\net10.0\RegistroEletronicoDeUtentes.GeneratedMSBuildEditorConfig.editorconfig
+J:\JOZZ NÉ\UNIKIVI\4º Ano\1º SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO VII\TRABALHOS\TRABALHO 01\RegistroEletronicoDeUtentes\obj\Debug\net10.0\RegistroEletronicoDeUtentes.AssemblyInfoInputs.cache
+J:\JOZZ NÉ\UNIKIVI\4º Ano\1º SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO VII\TRABALHOS\TRABALHO 01\RegistroEletronicoDeUtentes\obj\Debug\net10.0\RegistroEletronicoDeUtentes.AssemblyInfo.cs
+J:\JOZZ NÉ\UNIKIVI\4º Ano\1º SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO VII\TRABALHOS\TRABALHO 01\RegistroEletronicoDeUtentes\obj\Debug\net10.0\RegistroEletronicoDeUtentes.csproj.CoreCompileInputs.cache
+J:\JOZZ NÉ\UNIKIVI\4º Ano\1º SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO VII\TRABALHOS\TRABALHO 01\RegistroEletronicoDeUtentes\obj\Debug\net10.0\RegistroEletronicoDeUtentes.dll
+J:\JOZZ NÉ\UNIKIVI\4º Ano\1º SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO VII\TRABALHOS\TRABALHO 01\RegistroEletronicoDeUtentes\obj\Debug\net10.0\refint\RegistroEletronicoDeUtentes.dll
+J:\JOZZ NÉ\UNIKIVI\4º Ano\1º SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO VII\TRABALHOS\TRABALHO 01\RegistroEletronicoDeUtentes\obj\Debug\net10.0\RegistroEletronicoDeUtentes.pdb
+J:\JOZZ NÉ\UNIKIVI\4º Ano\1º SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO VII\TRABALHOS\TRABALHO 01\RegistroEletronicoDeUtentes\obj\Debug\net10.0\RegistroEletronicoDeUtentes.genruntimeconfig.cache
+J:\JOZZ NÉ\UNIKIVI\4º Ano\1º SEMESTRE\LINGUAGEM DE PROGRAMAÇÃO VII\TRABALHOS\TRABALHO 01\RegistroEletronicoDeUtentes\obj\Debug\net10.0\ref\RegistroEletronicoDeUtentes.dll
